@@ -1,0 +1,22 @@
+# Data manipulation and analysis
+numpy
+pandas
+
+# Machine Learning and Deep Learning
+scikit-learn
+torch
+torchvision
+tensorflow
+keras
+xgboost
+lightgbm
+
+# Data Visualization
+matplotlib
+seaborn
+
+# Development and Utilities
+jupyterlab
+tqdm
+pytest
+pyyaml
